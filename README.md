@@ -53,6 +53,8 @@ A step by step series that tell you how to get Project Groot up and running
 
 * [Flask](https://palletsprojects.com/p/flask/) - Lightweight WSGI web application framework
 * [Python](https://www.python.org/) - Python is an interpreted, high-level, general-purpose programming language
+* [Vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and managing virtual machine environments in a single workflow
+* [Virtual-Box](https://www.virtualbox.org/) - VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use
 
 ## License
 
